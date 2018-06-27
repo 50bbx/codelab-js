@@ -30,4 +30,4 @@ for(let str of input) {
     }
 }
 
-console.log(iii)
+console.log(prefixes)
