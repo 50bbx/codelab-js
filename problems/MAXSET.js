@@ -22,7 +22,7 @@ function splitArr(arr) {
     }, 0)
     
     if(segmentSum === sum) {
-      if(segment.length > splittedArr[winner].length) {
+      if(segment.length > splittedArray[winner].length) {
         winner = j
         continue
       }
